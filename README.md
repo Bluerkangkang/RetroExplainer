@@ -34,7 +34,7 @@ If the previous commands don't work, you can install the packages separately:
    conda activate RetroExplainer
    ```
 
-2. Install `pytroch` with correct CUDA version. To find your suitable version, see https://pytorch.org/get-started/locally/
+2. Install `pytorch` with correct CUDA version. To find your suitable version, see https://pytorch.org/get-started/locally/
 
    ```shell
    conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
